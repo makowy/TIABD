@@ -22,3 +22,7 @@ git push origin HEAD:refs/for/master
 
 7.Przechodzenie po gałęziach(branchach)	
 git checkout <<"nazwa brancha np.working">>	
+
+
+POSTEK ADAM ZOSTA>Ł DODANY
+
